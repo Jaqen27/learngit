@@ -1,0 +1,2 @@
+println gradle.hashCode()
+println gradle.gradleHomeDir()
